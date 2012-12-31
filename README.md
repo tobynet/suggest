@@ -16,3 +16,5 @@ Sample:
     fubar 福岡
     文箱
     付番
+
+copy and paste by https://github.com/youpy/google-suggest-skk
